@@ -1,0 +1,19 @@
+{
+  "info": [
+    {
+      "trainer": "Blohin",
+      "city": "Kyiv",
+      "year": 1972
+     },
+    {
+      "trainer": "David",
+      "city": "Odessa",
+      "year": 1975
+    },
+    {
+      "trainer": "Elven",
+      "city": "Rivne",
+      "year": 1986
+    }
+  ]
+}

@@ -1,1 +1,3 @@
-just ignore this file
+.DS_Store
+target/
+homework5.iml
